@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Portfolio Project "
-date:       2017-10-25 23:45:36 +0000
+date:       2017-10-25 19:45:36 -0400
 permalink:  rails_portfolio_project
 ---
 
@@ -26,7 +26,7 @@ Okay, so I scheduled a 1:1, I desperately wanted the opinions and suggestions of
 I wasn't messing around, I wanted to get this done. I hate wasting my time sitting around waiting for the appointment date to come around. So I ended up scheduling 2 meetings in a row. Since each is only 30 minutes, and from experience I know we never achieve what I wanted to achieve in those 30 minutes. (I mean, come on, the first 5 minutes go waiting for the meeting to open up properly and 3 to 5 more minutes go by trying to brief the instructor as fast as I can in what I'm trying to make and what I have issues with. Then 10 more trying to make yourself understood on what you want or need... the 30 minutes go by and you're lucky if you got 2 out of 6 questions in.) 
 Okay, so I was up for the hour appointment, but I didn't really get what I needed. Which was an honest opinion in whether or not I should be using STI, should I use something else, what do you think? 
 I got "umms" and "errs".
-Maybe it's just not possible to make your plans understood in such a short time.
+Maybe it's just not possible to make your plans understood in such a short time. There's no one to blame, we're students but not elementary students. 
 But either way, I came out still not sure if STI was the right way to go or if there was something better. 
 I had foreseen this happening (the meeting not covering what I need it to cover) so I already had scheduled yet another session for the next day. 
 It ended up being a different instructor. He almost cancelled on me. I got a last-minute email explaining they couldn't make it and I could reschedule for tomorrow or for that same day, but later in the evening. 
@@ -39,6 +39,7 @@ Well, I made my own life easier with the new structure, I just wish I had heard 
 I was able to get to other smaller questions I had for the project. What I did to get the most out of a session was just ask about 1 example from the 1 type of issue or question I had and see how it can be done then mentally note it, leave it and move on to next 1 small example for 1 question. 
 So you don't actually fix things while in sessions, you're not really testing properly either, just try to get as many answers or examples as you can, then you'll apply them later.
 I always learn faster by observing, seeing other examples and then implementing that in my own case. 
+Thank god, I felt like I was a car running low on oil, or just no oil and that session got me the oil I needed to get rolling. 
 Things started moving again and the next day, today, I was sure I was going to finish the project fully. I woke up at 8am and started. 8 hours in a row, 2 breaks of about 20 minutes. And I was done. 
 Things are working well in my website. 
 I applied my own authorizations and permissions. I loved working with the CSS, I loved working on my theme. I had fun with class methods. And I'm proud of my work.
