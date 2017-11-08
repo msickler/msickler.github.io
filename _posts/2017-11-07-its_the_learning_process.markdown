@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "It's the learning process"
-date:       2017-11-08 03:30:55 +0000
+date:       2017-11-07 22:30:56 -0500
 permalink:  its_the_learning_process
 ---
 
@@ -14,7 +14,7 @@ I was working full-time before, afternoon and night shift. Really long, busy, fa
 
 I quit all that though, to truly do a career and life change.
 
-From day one here I set up alarm at 7.45 AM. I those 15 minutes to wake up and set up my study area, then I start. 
+From day one here I set up alarm at 7.45 AM. I take those 15 minutes to wake up and set up my study area, then I start. 
 I keep track of my hours with my phone timer. 8 hours a day, at least, everyday. 
 
 That's how it has been, and it's not as strict as it sounds. 
