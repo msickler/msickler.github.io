@@ -1,36 +1,57 @@
 ---
 layout: post
 title:      "Jobs, jobs, jobs"
-date:       2017-12-05 18:03:05 +0000
+date:       2017-12-05 13:03:06 -0500
 permalink:  jobs_jobs_jobs
 ---
 
 
 Fresh out of bootcamp, where do I go?
+
 So many options, but really though? 
+
 15 tabs on my Chrome and more to come
+
 13 drafts of cover letters, please no more
+
 Oh but don't forget the networks, they say they work
 
+
 Hiring developers, but only "5+ years of experience"
+
 Junior positions, but still says "2+ years requirement"
+
 Okay, this is not working out great
+
 So make a new plan and try again 
 
+
 "Listen, I'm passionate", you say
+
 "I love computers and video games", you claim
+
 "I'm proficient in all these languages, I'm in love with development",
+
 "Please read my cover letter", you pray 
 
+
 One by one, you apply 
-little by little, you realize you may cry
+
+Little by little, you realize you may cry
+
 Your inbox says zero, so you replay the tape
+
 It's a matter of time, you're not done yet
 
+
 The answers will come, at some point
+
 Keep up the pace and you'll find the place
+
 Patience is key, be polite and stay hip (whatever that means)
+
 The job will come, if you're persistent enough 
+
 
 
 I thought it would be fun to do something a little different for this entry. 
